@@ -1,0 +1,3 @@
+([('app',
+   '/Users/jeremyspaunhurst/Desktop/Resume Builder/dist/app',
+   'EXECUTABLE')],)

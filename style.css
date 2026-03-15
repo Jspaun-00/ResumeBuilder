@@ -1,0 +1,100 @@
+/* GLOBAL DOCUMENT SETTINGS */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #333333;
+    font-size: 9.5pt;
+    line-height: 1.2; 
+    margin: 0;
+}
+
+/* 1. NAME (##) */
+h2 {
+    font-size: 22pt;
+    font-weight: 400;
+    color: #5B84B1;
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 2pt;
+}
+
+/* CONTACT INFO */
+h2 + p {
+    font-size: 9pt;
+    color: #777777;
+    margin-top: 0;
+    margin-bottom: 12pt;
+}
+
+/* 2. SECTION HEADERS (###) */
+h3 {
+    font-size: 11.5pt;
+    font-weight: bold;
+    color: #5B84B1;
+    text-transform: uppercase;
+    margin-top: 14pt;
+    margin-bottom: 4pt;
+    /* UNDERLINE REMOVED HERE */
+    border-bottom: none; 
+    padding-bottom: 0;
+}
+
+hr + h3 {
+    margin-top: 0;
+}
+
+/* 3. JOB TITLES / COMPANIES */
+p {
+    margin-top: 12pt;     
+    margin-bottom: 0;      
+    font-size: 10.5pt;  
+    color: #444444;
+}
+
+h3 + p {
+    margin-top: 4pt;
+}
+
+p strong {
+    font-size: 10.5pt;
+    font-weight: bold;
+    color: #444444;
+    text-transform: uppercase; 
+}
+
+/* 4. ACCOMPLISHMENTS / BULLET POINTS */
+ul {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-left: 16pt;
+    list-style-type: disc;
+}
+
+li {
+    font-size: 9.5pt; 
+    color: #333333;
+    margin-top: 0 !important;
+    margin-bottom: 2pt !important; 
+    padding: 0;
+    text-align: left;
+    line-height: 1.25;
+}
+
+li strong {
+    font-size: 9.5pt;
+    font-weight: bold;
+    color: #333333;
+    text-transform: none !important; 
+}
+
+li p {
+    margin: 0 !important;
+    display: inline;
+}
+
+/* HORIZONTAL RULE */
+hr {
+    border: none;
+    border-top: 1px solid #CCCCCC;
+    margin: 6pt 0;
+}

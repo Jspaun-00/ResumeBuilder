@@ -1,0 +1,1017 @@
+﻿INTERVIEW STORIES AND EXAMPLES \(>o<)/
+
+
+DIFFICULT SITUATION
+FIRST BIG PROJECT FOR NVIDIA AT EXTREME ARTS AND SCIENCES.
+
+
+Summary:
+I was assigned to manage a project involving Nvidia and Microsoft at EASCI, and initially struggled with confidence in high-stakes meetings. Seeking guidance from superiors and reflecting on my past successes helped me regain my confidence. I created a structured plan, which I presented to the clients, leading to increased trust, more autonomy, and additional work for the agency.
+
+
+Situation:
+When I started working at EASCI, I was quickly assigned to manage the overhaul of several existing pages and create new marketing pages for solutions provided by Nvidia and Microsoft. I found myself in meetings with global marketing directors from both companies, and I felt underprepared and lacked confidence, which made the first few weeks challenging.
+
+
+Task:
+I needed to take charge of critical decisions while ensuring I represented the agency effectively in front of such high-profile clients. My hesitation made it hard to contribute meaningfully, and I was concerned about making costly mistakes or damaging the agency’s credibility.
+
+
+Action:
+To address this, I sought advice from my superiors, reflecting on their guidance and my previous accomplishments. After these conversations, I regained the confidence I had lost. With this renewed self-assurance, I built a structured plan drawing on my past experience. I presented this plan to both Nvidia and Microsoft during our meetings, guiding the project more decisively.
+
+
+Result:
+The result was a shift in our clients’ perception. Instead of losing faith in our abilities, they entrusted us with additional work and granted more autonomy on future projects. Our performance strengthened the agency’s relationship with these high-profile clients and led to long-term success.
+
+
+
+
+VIDEO EDITING AND REVIEW ISSUES WORKING ON PRODUCTION SUMMIT WITH UNREAL ENGINE AND NVIDIA.
+
+
+Summary:
+We secured a contract with NVIDIA and Unreal Engine to edit 60 webinar videos from nearly 1,000 hours of footage. I managed the editors but encountered issues with client feedback not being addressed properly. After investigating, I discovered a miscommunication between editors and the client. I advised the team to communicate the challenges openly with the client, which led to better collaboration and improved client satisfaction, while also enhancing the capture process for future events.
+
+
+Situation:
+Our team at EASCI had just secured a million-dollar contract with NVIDIA and Unreal Engine to create over 60 webinar videos for the Production Summit event. We were provided with nearly a thousand hours of footage from seminars and talks to edit. I was responsible for managing the editors working on the project and soon realized the complexity of the feedback process.
+
+
+Task:
+The challenge was ensuring that feedback from the client was accurately incorporated into the videos. The client expressed frustration that requested edits weren’t being addressed after multiple review rounds, leading to dissatisfaction with the deliverables.
+
+
+Action:
+I investigated the issue by speaking with my editors, discovering a miscommunication. The editors didn’t have the necessary footage to make some requested edits but failed to communicate this back to the client. To resolve this, I instructed my editors to respond to the client with a clear explanation of the issue while still making the edits to the best of their ability. This allowed the client to see the gaps in the footage and feel that their feedback was acknowledged.
+
+
+Result:
+The client appreciated the transparency, and this approach helped improve communication. By highlighting the footage gaps, we also contributed to improving the quality of content capture for the next year’s event. The client’s satisfaction increased, and our team’s performance was recognized as adding value beyond just the editing work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DELIVERING INCORRECT NUMBERS ON A MILLION DOLLAR PROPOSAL FOR NVIDIA.
+
+
+Summary:
+While working at Extreme Arts and Science on a million-dollar proposal for NVIDIA, I discovered a $15,000 error in the financials after it had already been submitted. Despite my director’s concern about the client finding out, I chose to be transparent and immediately informed NVIDIA, sending a corrected proposal. This approach helped maintain trust and strengthened our relationship with the client.
+
+Situation:
+While working at Extreme Arts and Science, we were preparing a proposal for NVIDIA for a major production summit event. The project involved building websites, landing pages, managing email campaigns, and coordinating event check-ins. The proposal was valued at over a million dollars, so accuracy was critical.
+
+
+Task:
+My director and I were responsible for calculating the financials, but we made an error, and the numbers in the submitted proposal were off by $15,000. This mistake could have impacted our credibility with the client.
+
+
+Action:
+After discovering the error, I informed my director. He was concerned about the client finding out, but I believed it was important to address the mistake directly. I took the initiative to notify NVIDIA about the error and sent them a revised proposal with the correct numbers.
+
+
+Result:
+Although the mistake was noticed, the client appreciated our transparency. We were able to maintain the relationship, and they trusted us to correct any issues that came up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WORKING WITH THE SOFTWARE TEAM LEAD TO HELP RESTRUCTURE THE TEAM FOR GROWTH AND PERFORMANCE.  
+
+
+Summary:
+At Guinn Partners, I was tasked with improving performance and identified issues within the software team. Leadership raised concerns about the team’s progress, so I worked closely with the new team lead to assess the situation. We identified underperformers, put one on a performance improvement plan, and let go of two others. I mentored the team lead through these tough decisions, focusing on leadership development and setting clear expectations. As a result, team productivity improved, and the team lead gained confidence in managing performance moving forward.
+
+
+Situation:
+At Guinn Partners, I was tasked with improving company performance, identifying operational gaps, and strengthening team structures. As part of this effort, I appointed a new team lead for the software team, giving him the responsibility to create more organization and direction.
+
+
+Task:
+After some time, leadership began to express concerns over the software team’s stagnation and questioned the effectiveness of the newly appointed team lead. It was clear that the team’s performance wasn’t meeting expectations, and we needed to take steps to address these shortcomings to ensure alignment with the company’s goals.
+
+
+Action:
+Instead of immediately questioning the team lead’s abilities, I took a coaching approach. I worked with him to assess the situation, identify key underperformers, and clarify expectations moving forward. Together, we developed a plan that involved implementing a performance improvement plan (PIP) for one employee and letting go of two others who weren’t a fit for the team. I emphasized the importance of setting clear goals and providing consistent feedback, while also teaching him to separate personal relationships from business decisions. Throughout this process, I provided guidance on how to handle difficult conversations and terminations, reinforcing that strong leadership is about making tough, but necessary, decisions to uphold team performance.
+
+
+Result:
+By focusing on leadership development and best practices in performance management, the team lead gained confidence in making decisions that benefited both the team and the organization. The actions we took not only improved team productivity, but also set a standard for how performance issues should be addressed in the future, ensuring that both the team and the company continued to grow efficiently and in line with business objectives.
+
+
+OVER AND BEYOND THE REQUIREMENT
+STORAGE OF VIDEO ASSETS ON PERSONAL DRIVE FOR EXTREME ARTS AND SCIENCES.
+Summary:
+While working at Extreme Arts and Science, we had to store 22 terabytes of video footage for NVIDIA, but the proper storage wasn’t ready. To prevent delays and maintain trust with the production team, I used my personal 80 terabytes of storage temporarily. This allowed the project to move forward smoothly, and once the correct storage was purchased, I transferred the footage and ensured it was ready for the editors on time, preserving relationships and preventing project delays.
+
+
+Situation:
+At Extreme Arts and Science, we were tasked with editing over a thousand hours of video footage for a production summit hosted by NVIDIA. However, before the project was fully funded and the proper storage solution was in place, the production company was eager to offload 50 terabytes of video data to us, putting pressure on our timeline and resources.
+Task:
+Our company was not prepared to store such a large amount of data immediately, and delays in securing the proper storage risked straining our relationship with both NVIDIA and the production company. The challenge was to find a quick solution to manage the data while maintaining confidence with our partners.
+Action:
+To prevent further delays and fallout, I volunteered to use my personal 80 terabytes of storage to temporarily hold the footage. I consulted with my director and received approval to move forward with this plan. I coordinated with the production team, arranged a pickup of the drives, and personally handled the transfer of the footage onto my own storage. After successfully completing the transfer, I returned the drives to the production company, which immediately alleviated their concerns.
+Result:
+By stepping in with a temporary solution, we maintained the trust of the production company and avoided delays. Once the project was funded, we were able to purchase the correct storage system, and I transferred the footage from my personal storage to the new system. This ensured that the project moved forward smoothly, with the video editors receiving the footage on time. My actions not only prevented a potential breakdown in communication but also strengthened our relationship with NVIDIA and the production team by demonstrating flexibility and reliability.
+
+
+
+
+
+
+
+
+
+
+
+
+IMPROVING OUR MONTHLY REPORTS AND THE INSIGHTS DELIVERED TO MICROSOFT.
+
+
+Summary:
+I noticed that our reports were too basic, so I suggested adding actionable insights to help clients make better decisions. For example, after analyzing data, we saw a white paper gained downloads due to a client being in the news. I proposed creating a homepage block to capitalize on the interest, which the client implemented. As a result, their click-throughs jumped from 300 to 1,600, demonstrating the value of our insights and technical expertise, which led to ongoing improvements and stronger results for the client.
+
+
+Situation:
+Our team was sending clients basic reports that presented metrics without much analysis or value. As someone with experience in business management, I recognized the need to shift our approach to deliver more actionable insights.
+Task:
+I wanted to improve our reporting by not only providing metrics but also offering suggestions on how clients could act on the data to drive better results.
+Action:
+After analyzing the data, we noticed that a white paper received increased downloads, which we linked to the client being in the news and featured at an event. I suggested that we create a block on their homepage to capitalize on this interest while it was still high. The client agreed and implemented the change. We continued this process, analyzing metrics monthly and providing targeted recommendations, such as upgrading videos, refreshing site data, and optimizing links.
+Result:
+By making these proactive suggestions, the client saw significant improvements in engagement. The homepage block we recommended led to an increase from 300 to 1,600 click-throughs and white paper downloads. Our deeper insights and technical expertise demonstrated clear value, helping the client maximize the return on their investment with us. This process continued, with ongoing improvements based on data-driven suggestions, reinforcing our role as a strategic partner.
+
+
+
+
+FRAME.IO IMPLEMENTATION - 
+Summary:
+For a video project at Xtreme Arts and Science, we initially proposed using an Excel sheet to track feedback and changes on over a thousand hours of footage. Realizing this wasn’t efficient, I suggested a more refined tracking system to better manage revisions. This improved the process, reduced errors, and allowed us to deliver the final product ahead of schedule, exceeding client expectations.
+
+
+Situation:
+At Xtreme Arts and Science, we were tasked with a video project that involved processing over a thousand hours of footage. As the project progressed, we realized that toward the end, we needed to develop an efficient system to gather client feedback and implement changes to the final product.
+Task:
+Our goal was to create a streamlined process for managing feedback and editing the videos. Initially, we proposed using a basic Excel spreadsheet to track frame numbers and timestamps where changes were requested.
+Action:
+Recognizing that this system might not be efficient enough for the complexity of the project, I proposed a more robust solution. I helped refine the feedback process by incorporating a better tracking method that would allow both the client and our team to easily reference specific moments in the video for changes, ensuring clearer communication and fewer revisions. This upgrade improved our workflow, allowing for faster turnaround times on edits.
+Result:
+By improving the feedback and revision process, we were able to meet the client’s needs more effectively. The updated system saved time, reduced errors, and ensured that final edits were delivered ahead of schedule, exceeding the client’s expectations and solidifying our reputation for delivering quality work.
+
+
+
+
+
+
+
+
+
+
+
+
+COMMUNICATION AND LEADERSHIP STYLE
+THEORY Y WITH SOME ELEMENTS OF X WHEN NEEDED. 
+I align with a Theory Y leadership style, where I believe that people naturally have a desire to perform well and master their skills. Rather than micromanaging, I focus on giving my team autonomy and control over their decisions. This allows them to take ownership of their work, building confidence when they succeed and learning from mistakes when they happen. My goal is to foster growth through that ownership. However, I recognize that in certain situations—such as when a project is falling behind or a team member lacks experience—it’s necessary to step in with more hands-on guidance. Once things are back on track, I return to empowering the individual to make their own decisions and develop their skills further.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOW DO YOU PRIORITIZE TASKS - (& CATCH UP)
+WORKBACK SCHEDULE FOR PROJECT MILESTONES
+I typically start prioritizing tasks by creating a workback schedule, where I begin with the desired end result and work backward to set milestones and deadlines. However, I don’t create this schedule in isolation. I take a macro view of the company, considering team availability, resource allocation, and potential constraints. For example, even if a task might typically take two weeks, I account for the current bandwidth of the team, such as the software department, which might be stretched thin. So, I would extend the timeline to three weeks to account for limited resources. By comparing historical data on task durations with future resource availability, including factors like holidays or vacations, I can build a workback schedule that is both realistic and aligned with the company’s capacity.
+INTERFERING PROJECT REQUESTS - (TEAM CAPACITY DEADLINES AND ELEVATING URGENT TASKS)
+I rely heavily on project management software like JIRA, Asana, and custom dashboards to prioritize tasks effectively. These tools give me both a micro and macro view of resources, project timelines, and individual workloads. Without this data, it’s easy for important tasks to slip through the cracks and become urgent at the last minute. At Guinn Partners, I implemented a system that integrates time-tracking software with JIRA, allowing us to track task progress and resource allocation across teams. This helps me reprioritize tasks and deadlines as needed. Additionally, I’m working on implementing Tableau dashboards that will provide seamless integration between project health, timelines, and team workloads, enabling us to identify slipping tasks or projects before they become critical. By using data-driven insights, I can address issues early and ensure we stay on track.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HANDLE UNDERPERFORMING TEAM MEMBER
+SUNNY AND LEARNING HER NEEDS AS A DEVELOPER
+Summary:
+At Extreme Arts and Science, I managed a developer, Sunny, who struggled in our fast-paced environment. Instead of dismissing her underperformance, I adjusted my leadership style by providing clear, detailed tasks and regular feedback. This helped her improve communication and task completion. While she wasn’t ultimately the right fit and had to be let go, she expressed gratitude for my support, teaching me the importance of adapting leadership to individual needs.
+
+
+Situation:
+At Extreme Arts and Science, I was given management responsibility over a full-time developer named Sunny. Early on, it became clear that she lacked some of the key strengths needed for the fast-paced agency environment. Her underperformance was affecting the progress of my active projects, and it was clear that the software team had struggled to properly manage and develop her skills.
+Task:
+I needed to find a way to help Sunny improve her performance and contribute more effectively, while balancing the needs of the project and the team.
+Action:
+Rather than getting frustrated or taking a dismissive approach, I decided to mentor Sunny and understand the root cause of her challenges. Through open dialogue, I discovered that she thrived with clear, specific tasks and wasn’t comfortable with the autonomy that was typical in our work environment. I adjusted my management style to provide her with a detailed, daily list of tasks, and I asked for feedback regularly to ensure she felt supported. This approach allowed her to complete her tasks successfully, ask for help when needed, and feel more comfortable with her workload.
+Result:
+Although Sunny ultimately wasn’t the right fit for the role and we had to let her go, the experience taught me the value of adapting my leadership style to the needs of my team members. On the day of her termination, she called to express her gratitude, saying I was one of the best managers she’d ever had, which was a powerful reminder that even in challenging situations, thoughtful leadership can leave a positive impact.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOLLY RECEIVING FEEDBACK FROM THERESA AND  HOW TO HANDLE LAST MINUTE REQUESTS
+
+
+Summary:
+While editing 60 webinars for NVIDIA, the client grew frustrated as some feedback was being ignored. After investigating, I found the video editor was skipping certain revisions due to technical limitations but wasn’t explaining this to the client. I instructed the editor to show the problematic footage and explain the issues, ensuring transparency. This improved client satisfaction and restored trust, even though it added some extra work.
+
+
+Situation:
+We were tasked with producing and editing 60 webinars for NVIDIA, and after implementing a feedback system for the client to review and suggest changes, it became clear that the client was growing frustrated. Some of their feedback was being ignored, and revisions weren’t being made to the video as requested.
+Task:
+I needed to quickly address the client’s concerns and resolve the disconnect between the feedback they were providing and the lack of follow-through from our video editor, while maintaining client satisfaction.
+Action:
+Upon investigating, I found that the editor was skipping over some of the client’s requests because the issues couldn’t be fully addressed due to technical limitations, such as poor footage or audio quality. However, instead of communicating this to the client, the editor would either dismiss the feedback or state there were no other options without showing the problematic footage. I instructed the editor to change the approach. I emphasized that even if the feedback couldn’t be implemented, the client needed to be informed and shown the issues. I asked the editor to share the problematic footage and explain why certain edits couldn’t be made, providing full transparency to the client.
+Result:
+This added a few extra hours to the process, but it dramatically improved the client’s experience. By showing them exactly what was happening and why some changes weren’t possible, the client felt heard and had more confidence in approving the final edits. This transparency helped restore trust and ensured smoother collaboration moving forward.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANDRES LIFT-FOILS PROJECT 
+
+
+Summary
+As Senior Project Manager, you noticed the software team was struggling due to ineffective management. By engaging with the project lead on a high-profile mobile app, setting stricter deadlines, and requiring daily updates, you transformed a two-month project into a three-and-a-half-week success. This approach fostered a more dynamic and efficient team environment.
+
+
+Situation: 
+You noticed the software team was struggling due to a manager who excelled technically but lacked interest and skills in management. This resulted in inefficiencies within the team.
+Task: 
+As someone experienced in web development and software development lifecycles, you took it upon yourself to bring structure and organization to the software team, especially focusing on a high-profile mobile app project.
+Action:
+You engaged with the project lead, understanding his process and setting goals for task completion, pushing his estimated timelines by 30-40%. You required daily progress updates, ensuring accountability and transparency.
+Result: 
+By implementing these changes, you transformed a two-month project into a three-and-a-half-week completion. This not only improved efficiency but also led to a stronger team dynamic and the promotion of a suitable team lead, whom you continued to mentor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE TEAM RESTRUCTURING
+
+
+Summary:
+As Senior Project Manager at Guinn Partners, you found the software team working in silos with little oversight due to a technically skilled but managerially inexperienced team lead. Identifying the absence of development standards and code reviews, you implemented structured processes and appointed a new team lead. Within a couple of months, these changes led to improved transparency through weekly reports, proactive challenge management, and the addition of three new team members, enhancing the team’s competencies.
+
+
+Situation: 
+Upon starting as Senior Project Manager at Guinn Partners, you assessed the company’s core competencies and found that the software team lacked structure, with members working individually and infrequently checking in with their team lead.
+Task: 
+You needed to identify the underlying issues and implement improvements to create a more cohesive and efficient team structure.
+Action: 
+You discovered the lack of software development lifecycle standards and insufficient code reviews. You implemented proper review processes and introduced a new team lead to enforce these standards.
+Result: 
+Within one to two months, the team was transformed. Leadership gained a clear understanding of each team member’s tasks and progress through weekly reports, which enabled proactive challenge management and allowed the team to grow by three members.
+
+
+BEST AND WORST PROJECT 
+BEST - NVIDIA INDUSTRY PAGE - (GROWTH COMES FROM MISTAKES)
+
+Summary:
+While creating new pages for NVIDIA, the first page took nearly three months due to conflicting feedback and no clear process. I implemented new SOPs and intake forms to streamline information gathering. As a result, the second page was completed in just over a week with minimal revisions. NVIDIA was so impressed that they asked us to develop a co-op site with Unreal Engine, appreciating our efficient approach.
+Situation:
+At Extreme Arts and Science, we were tasked with creating several pages for a global-facing site sponsored by NVIDIA, showcasing their advancements in artificial intelligence across industries like restaurants and financial markets. The first page was a challenge, taking almost three months due to conflicting feedback from multiple stakeholders and a lack of clear direction.
+Task:
+I needed to streamline the process and reduce the confusion caused by misaligned requirements, while ensuring we could meet deadlines and maintain a smooth workflow for future projects.
+Action:
+After completing the first page, I led a review to identify where things went wrong. I realized the primary issue was the lack of a structured process for gathering and organizing information. To fix this, I created new standard operating procedures (SOPs) and intake forms to capture all necessary content, copy, design preferences, and assets upfront. When we moved on to the next page, focused on financial markets, we implemented these new processes and sent the forms to NVIDIA’s internal team for alignment.
+Result:
+The changes drastically improved efficiency. The second page was developed in just a week and a half and received 90% approval on the first review, requiring only minor adjustments. NVIDIA was so pleased with our organized approach that they asked us to create a second co-op site with Unreal Engine, noting how much easier we made the process compared to other agencies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WORST - MICROSOFT EDUCATION SURVEY 
+Summary:
+While working on a reusable form project for Microsoft, we faced major delays because our developers couldn’t complete the backend, and the CEO, who was our chief architect, was too busy to help. The project was delayed by four months, and I had to repeatedly update the client with disappointing news. This taught me the importance of realistic timelines, better internal communication, and the need for contingency plans to avoid bottlenecks and maintain client trust.
+
+
+Situation:
+At Xtreme Arts and Science, we were tasked with building a complex, reusable form for Microsoft to gather user feedback at multiple conferences. The form needed to be translatable into different languages and capable of exporting data into various formats for visualization.
+Task:
+Our goal was to deliver a fully functional app with both front-end and back-end capabilities, allowing Microsoft to gather, manage, and export data independently. However, as development progressed, we realized that our core developers couldn’t complete the backend on time. We had to enlist our chief architect, who also served as the CEO, to complete the project.
+Action:
+Despite repeated assurances from the CEO that the backend would be completed quickly, his other responsibilities delayed progress. I maintained communication with Microsoft, assuring them that the project would be completed soon. Unfortunately, the project slipped by four months, and I had to repeatedly face the client with disappointing news, all while trying to maintain their trust and keep the situation from damaging our relationship. I was caught in a difficult position, trying to represent the company while lacking the necessary support to meet the client’s expectations.
+Result:
+The experience taught me several critical lessons about managing client expectations, especially when internal resources are stretched thin. I learned the importance of having clear, realistic timelines and the dangers of overpromising, even when reassurances come from leadership. I also realized the need for better contingency planning—relying too heavily on one person created a bottleneck that harmed our credibility with the client. Going forward, I made it a point to push for more transparency within the team and to create backup plans to ensure that projects stay on track, even when key resources are unavailable. These lessons improved my ability to communicate more effectively with both clients and internal teams, ensuring that expectations are aligned and achievable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROUSE AERIALS - ART CONSULTANTS 
+Summary
+At Mitch Rouse Aerials, we initially struggled to market our work to hotels, so I pivoted to targeting art consultants and interior designers. I built a list of 170 consultants and launched a refined email outreach campaign using A/B testing to personalize the messaging. This shift generated $80,000 in sales within the first seven months and established long-term relationships with 125 active vendors, driving consistent revenue growth in the following years.
+
+
+Situation:
+When I joined Mitch Rouse Aerials, our initial strategy was to build a network of vendors to market our aerial photography and videography, focusing on placing our visuals in hotels and corporate lobbies. We targeted large hotel chains like Hilton but had little success in gaining traction.
+Task:
+I realized we needed to rethink our approach and identify more effective channels to market our work. My task was to develop a new strategy, targeting the right decision-makers to ensure our product would reach the intended spaces.
+Action:
+After reassessing the situation, I learned that art consultants and interior designers, rather than hotel chains, were the key contacts for placing art in corporate spaces. I pivoted our strategy and built a list of 170 art consultants across the U.S. I then implemented a bi-weekly email outreach campaign. Through A/B testing, I refined the email content, focusing on location-based messaging. Over time, I adjusted the frequency to monthly and then every two to three months based on feedback from the consultants, ensuring a balance between persistence and not overwhelming them.
+Result:
+This change in approach led to $80,000 in new sales within the first seven months and positioned us to generate about $100,000 annually in the following years. Out of the initial 170 consultants contacted, 125 became active vendors. This experience not only grew the business but also demonstrated my ability to pivot, learn, and adapt to a more successful strategy that continues to generate revenue today.
+
+
+HOW DO YOU HANDLE ROADBLOCKS 
+ALEX GETTING PULLED OFF PROJECTS BY CEO 
+Summary:
+When a key team member was frequently pulled off projects by leadership at Extreme Arts and Science, causing delays, I communicated with clients early about potential setbacks and built buffer time into project timelines. By forecasting issues and working closely with leadership to reallocate resources, I was able to keep projects on track and maintain client trust.
+Situation:
+At Extreme Arts and Science, I often faced roadblocks when a key employee I was working with would suddenly be pulled off projects by the CEO or chief architect, which caused delays in our timelines. This lack of communication about resource changes created significant challenges, especially when I had to manage client expectations.
+Task:
+As the program manager, my responsibility was to ensure that projects stayed on track and that clients were kept informed of progress. When roadblocks like this occurred, I had to manage both the team and the client’s expectations, despite not having control over resource allocation.
+Action:
+When these situations arose, I ran interference by communicating potential delays to the client early and working to adjust timelines. Over time, I learned to anticipate roadblocks by getting a feel for the patterns in resource availability and the working habits of different team members. I began incorporating buffer time into project estimates, especially when I knew the employee might be pulled into other work. I also improved my communication with leadership to ensure we could quickly reallocate resources and keep the project moving forward.
+Result:
+By proactively forecasting potential issues and adjusting timelines with buffer periods, I was able to manage client expectations and keep projects on track despite resource challenges. This approach allowed us to maintain client trust while minimizing the impact of unexpected changes in team availability.
+HIRING MUHAMMET- ATOM AI
+Summary:
+While working on a complex AI project at Guinn Partners, we hit a roadblock due to a lack of in-house expertise. I remembered a past interviewee, John, who had the right skills but wasn’t initially hired. I reached out to him, flew him to Austin, and his work impressed the client, leading them to expand the project’s scope and budget. We overcame the challenge and ended up hiring John full-time due to his impact on the project’s success.
+
+Situation:
+At Guinn Partners, we were working on a machine learning and AI project that became too complex for our in-house team. Our existing contractor wasn’t delivering, and we faced a critical moment in the project.
+Task:
+As head of operations, it was my responsibility not only to solve the technical challenge but also to ensure any solution fit within the project’s budget. I remembered John, a past interviewee with strong skills in firmware and machine learning, who had expressed interest in future contracting work.
+Action:
+I proposed bringing John on as a contractor. Before moving forward, I reviewed the project’s budget to ensure his addition would be financially viable. Once I confirmed it would work, I presented the plan to leadership. They approved, and I reached out to John, flew him from Massachusetts to Austin, and quickly got him started on the project. His technical expertise and ability to engage directly with the client not only resolved the roadblock but also built significant confidence in our capabilities.
+Result:
+John’s involvement led the client to expand the project’s scope and increase the budget, ultimately more than offsetting his yearly cost. This careful management of both technical and financial aspects allowed us to hire John full-time, and the project moved forward successfully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MANAGING A BUDGET
+GUINN PARTNERS - OKRA BOT PROJECT PROFITABILITY
+Summary:
+At Guinn Partners, we faced budget issues on a complex AI project. I analyzed the project’s financials, reallocating funds from under-budget tasks and proposing we reduce our billable rate to slightly above cost. This allowed us to absorb a small $15,000 hit, maintain profitability, and secure the next phase of the project, worth several million dollars. I based this decision on the overall strong financial health of the business, ensuring we could invest confidently without risking long-term growth.
+
+
+Situation:
+At Guinn Partners, I oversee company finances and frequently advise project managers on budget management. One particular project, code-named Okrabop, involved developing complex AI vision learning for an auto-picking machine, and the project was becoming more costly and challenging than initially scoped. We also had an underperforming contractor whose contract we couldn’t easily terminate due to internal relationships. With the project at risk of going over budget, leadership turned to me for a solution.
+
+
+Task:
+I needed to assess the project’s financial situation, maintain profitability, and ensure that we didn’t risk losing the second phase of the project, which was valued at several million dollars. It was crucial to balance this project’s financial constraints with the overall business performance, knowing that we had some flexibility due to the profitability of other ongoing projects.
+
+
+Action:
+I conducted a financial analysis of the project’s budget, reviewing both current spending and projected profitability. I discovered that while some tasks had exceeded the budget, others were completed under budget, leaving surplus funds. I reallocated these funds to cover the over-budget tasks. I also evaluated the risk of losing the next phase of the project, and after considering the profitability of our overall business portfolio, I proposed that we reduce our billable rate to slightly above cost for the remainder of the task. This allowed us to maintain client satisfaction while absorbing a manageable $15,000 hit. The decision was guided by the understanding that preserving the client relationship and securing the next phase of the project would bring long-term benefits that far outweighed the short-term financial impact.
+
+
+Result:
+By reallocating budget funds and strategically reducing our rates, we kept the project on track and ensured the client remained satisfied. The small short-term hit to profitability was offset by the opportunity to secure the next phase of the project, valued at several million dollars. This approach was supported by the company’s overall strong financial performance, which allowed us to invest in this project with confidence, knowing that the broader business was healthy and profitable.
+MONITORING AND MANAGING RISK
+TABLEAU DASHBOARDS - INTEGRATION WITH JIRA USING DATA TO TRACK RESOURCES AND IDENTIFY ISSUES AROUND THE CORNER.
+Summary:
+At Guinn Partners, as head of operations, I streamlined financial management by implementing a Tableau dashboard that integrates data from time tracking, project budgets, and task allocations. This system provides both micro and macro views of project and resource performance, allowing me to monitor and manage risk proactively. With this dashboard, I can identify potential issues early, ensuring projects stay on track while keeping leadership and sales teams informed.
+
+Situation:
+At Guinn Partners, as head of operations, I am responsible for managing both company and project finances. With our company growing rapidly, and with more clients and employees onboard, the traditional process of cross-referencing data across multiple platforms—Harvest for time tracking, JIRA for project management, and QuickBooks for business finances—became too cumbersome.
+
+
+Task:
+I needed a more efficient system to monitor and manage risks related to project performance and company resources. My goal was to streamline the process, gain clearer insights into financial data, and make it easier to share these metrics with project managers, business owners, and clients.
+
+
+Action:
+To address this, I implemented a Tableau dashboard system that integrates data from our time tracking, project budgets, and task allocations. The system allows for both micro-level views (individual project health) and macro-level views (company-wide resource utilization). It also provides forecasting insights, showing when specific teams, like mechanical or electrical, will be maxed out or underutilized in upcoming months. This dashboard helps me make informed decisions about resource allocation and ensures that both leadership and sales teams have the information needed to keep projects on track and acquire new clients.
+
+
+Result:
+This new system has allowed me to monitor project and company performance daily and manage risks proactively. I can identify potential issues well ahead of time, enabling me to address them before they escalate. The dashboard is user-friendly and visually appealing, providing valuable insights to leadership, project managers, and resources, ensuring we stay informed and prepared.
+
+
+
+
+
+
+
+
+INTAKE STANDARDIZATION
+Summary: Amazon’s intake process for parking referrals was decentralized and manual, resulting in a 40–60% data loss rate. By developing a standardized submission form integrated directly into the KBC database, we automated the capture of property details, eliminated manual data entry for brokers, and ensured 100% visibility into the procurement pipeline.
+Situation: Submissions arrived via fragmented channels (email, text, PDF) with no standard format. Brokers and coordinators spent 80–125 hours every six weeks manually transcribing data or deciphering duplicates. Because the process was so high-friction, nearly half of all researched opportunities were never logged, creating a massive "black box" in Amazon’s real estate pipeline.
+Task: My goal was to create a "zero-touch" intake system that removed the administrative burden from brokers and captured 100% of incoming data. I needed to ensure the data was structured and "clean" enough to eventually integrate with advanced site selection tools without requiring retrospective data cleaning.
+Action:
+* Standardized Development: Built a comprehensive digital intake form that mandated critical fields (coordinates, property specs, contact info).
+* Automated Workflow: Configured a direct data pipeline where submissions flow automatically into KBC’s database and mapping software, bypassing manual human intervention.
+* Data Integrity: Eliminated the transcription process, ensuring the data viewed by evaluators was an exact match to the partner’s original submission.
+Result: The system processed nearly 500 submissions in the first six weeks, saving an estimated 125 hours of administrative work. More importantly, we eliminated the 60% loss rate, ensuring every potential site is now captured and visible. This established the clean data foundation required for Amazon’s 2025 Peak procurement and long-term integration with the Site Selection Tool (SST).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PARKING MARKET SURVEY IMPROVEMENT INITIATIVE
+Summary: Amazon’s parking procurement was hindered by a 73% increase in market survey completion times and a significant drop in delivery rates. I developed and launched a centralized Smartsheet-based RFQ Portal that automated vendor outreach and standardized the intake of site surveys. This solution successfully reduced the 38-day average cycle time and provided real-time pipeline visibility, ensuring the team could scale to meet a 27% year-over-year increase in parking demand for the 2025 peak.
+Situation: By late 2024, the parking delivery rate had dropped from 104% to 80% because brokers were overwhelmed by manual, fragmented processes. Outreach to dozens of landowners for a single survey was conducted via individual emails, leading to inconsistent data and a lack of centralized tracking. This "black box" prevented leadership from identifying bottlenecks and hampered the speed required to secure sites in a competitive market.
+Task: The objective was to build a scalable, automated system for market surveys that kept brokers in control of decisions while removing the administrative burden of outreach. I needed to ensure the solution could integrate with existing tools like QuickSight and the Site Selection Tool (SST) to provide data-driven insights into the acquisition pipeline.
+Action:
+* System Architecture: Developed a Smartsheet RFQ portal featuring automated distribution lists and standardized response forms to allow "apples-to-apples" property comparisons.
+* Security & Compliance: Navigated enterprise security protocols to successfully allow-list vendor domains, enabling secure external-to-internal data flow.
+* Stakeholder Collaboration: Partnered with the Site Selection and Engineering teams to align the portal’s data structure with the long-term product roadmap for internal real estate tools.
+* Pilot Execution: Launched a successful pilot with TruxParking to validate the automated feedback mechanisms and data integrity before scaling to the full vendor network.
+Result: The initiative successfully reduced the 38-day market survey cycle time and enabled the team to handle nearly 500 new lease requirements without increasing headcount. By automating repetitive tasks, we regained 100% visibility into the survey pipeline and improved submission quality through built-in feedback loops. This system now serves as the primary infrastructure for securing off-site parking for 2025 operations.
+
+
+
+
+
+
+
+
+
+
+
+PARKING RENEWALS & COMMUNICATION IMPROVEMENT INITIATIVE
+Summary: Amazon’s parking operations faced critical communication breakdowns across the lease lifecycle, leading to missed renewal notice dates and expensive holdover situations. By migrating fragmented communications from email and Slack into a centralized Asana platform and implementing a technical logic fix for the Shield tracking system, we standardized the renewal process. These changes eliminated manual research bottlenecks and ensured stakeholders had real-time visibility into lease expirations.
+Situation: In 2024, the team processed over 460 renewals and expirations. The existing workflow relied on scattered interactions and manual cross-referencing of Tango records, which was highly error-prone. Incorrect "latest notice dates" in the system frequently forced emergency renegotiations or pushed the business into costly holdovers because decisions couldn't be processed in time.
+Task: As the project lead, I needed to centralize lease lifecycle communication and resolve the root cause of inaccurate timeline calculations. The goal was to reduce administrative burden on Transaction Managers (TMs) and ensure 100% accuracy for renewal notifications to protect Amazon’s delivery network reliability.
+Action:
+* System Integration: Implemented Asana as the "single source of truth," creating individual tickets for every renewal that tracked site addresses, execution dates, and decision history.
+* Technical Root Cause Analysis: Identified that Shield was calculating timelines based on unreliable "latest notice dates." I submitted a ticket to anchor all logic on Expiration Dates, which are present in 100% of contracts.
+* Stakeholder Training: Led the "Education Phase" for the TOM (Transportation Operations Management) team to ensure seamless adoption of the new dashboard and notification triggers.
+Result: The initiative successfully eliminated missed renewal notice dates by replacing manual research with automated, anchor-date logic. The transition to Asana reduced the time spent reconstructing email chains by providing a transparent audit trail, effectively minimizing the impact of team turnover. This streamlined coordination allowed the team to avoid expensive holdover penalties and maintained stronger landlord relationships through timely execution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SITE SELECTION TRACKING IMPROVEMENT INITIATIVE
+Summary: Amazon’s site selection process was previously managed through hundreds of unorganized email threads, leading to significant visibility gaps and delayed decision-making. I spearheaded the implementation of a centralized Asana-based tracking system for the AMZL and RSR business units, which standardized submission tracking and created a cross-functional "marketplace" for parking opportunities. This initiative successfully reduced decision timelines, eliminated redundant data searches, and allowed different business units to leverage shared data to secure sites more efficiently.
+Situation: As parking demand grew 27% year-over-year, brokers managing roughly 100 active requests each were overwhelmed by inbox volume. There was no centralized way to see how many submissions existed per request or the historical context of stakeholder feedback. This lack of transparency caused "gray areas" where business units were blind to opportunities already vetted by other teams, leading to duplicated efforts and missed deadlines that forced expensive, emergency parking workarounds.
+Task: My goal was to migrate site selection tracking from fragmented email chains into a single, searchable workspace. I needed to build a system that not only provided a clear audit trail for current projects but also acted as a repository for "hidden" opportunities that could benefit other organizations within Amazon.
+Action:
+* Centralized Architecture: Built and deployed an Asana tracking hub that integrated with Slack and Microsoft 365, ensuring all stakeholder communication and decision updates were captured in a single location.
+* Visibility Enhancement: Designed the system to track the specific number of submissions per request, providing clarity on pipeline volume that was historically invisible.
+* Cross-Functional Synergy: Created an open-access environment for specific business units, allowing them to review submissions sent to other organizations. This enabled teams to "pick up" high-quality sites that didn't fit the original requester's needs but were perfect for their own.
+* Pilot Expansion: Successfully managed the onboarding and training for AMZL and RSR transaction managers, refining the workflow based on real-time feedback during a 4-week pilot.
+Result: The pilot successfully reduced decision cycle times and provided a level of transparency that was previously non-existent. By creating a "one-source" location for submissions, we unlocked hidden capacity across the network, allowing business units to adopt sites vetted by other teams. This logic was so successful it was subsequently applied to the renewals and expiration workflows, ensuring that no viable site opportunity "dies on the vine" due to organizational silos.
+
+
+
+CLOSEOUT AUTOMATION (ATLAS AI AGENTIC SOLUTION)
+Summary: Amazon’s parking close-out process was a manual, document-heavy workflow that required extracting and cross-referencing data across multiple PDF formats to create standardized documentation. I developed a high-performance "Agentic" automation solution using Atlas AI, VBA, and JavaScript that transformed a 60-minute manual task into a 12-minute automated process. This multi-phase system not only delivered an 80% reduction in execution time but also eliminated transcription errors and ensured 100% adherence to business-unit-specific formatting standards.
+Situation: The close-out process involved manually locating specific data points across disparate document formats (Leases, Amendments, and Site Specs), validating consistency, and applying complex logic to assign contacts for different business units (TOM vs. SSD). As the portfolio expanded, this bottleneck consumed hours of coordinator time and was highly susceptible to human error during data transcription, which could lead to downstream inaccuracies in Tango and Shield records.
+Task: My objective was to engineer a "monster" efficiency solution that could ingest multiple source documents and output a finalized, copy-pasteable report and email template. I needed the system to be robust enough to handle various contract types while maintaining a built-in quality assurance mechanism through confidence scoring and error handling.
+Action:
+* Agentic Framework Development: Built a sophisticated AI agent on the Atlas platform that simultaneously processes multiple PDFs to extract key property and lease data with high confidence.
+* Full-Stack Automation: Integrated VBA macros and JavaScript to handle the heavy lifting of administrative formatting, cell styling, and data mapping, reducing document input complexity from three documents down to two.
+* Business Logic Implementation: Engineered prompts to apply nuanced business rules, such as auto-populating recipient values and contact logic based on the specific business unit associated with the site.
+* Quality Control: Implemented an automated "check and recheck" system that provides confidence scores for extracted information, alerting users to any details that require manual verification.
+Result: The solution successfully moved from beta into full production, delivering a massive reduction in processing time from 45–60 minutes down to just 12 minutes per closeout. By combining AI-driven extraction with macro-based formatting, we massively improved output quality while freeing up coordinators for higher-value strategic work. This initiative established a repeatable, high-accuracy framework for scaling Amazon’s parking close-out documentation globally.
+
+
+BIWEEKLY REPORT AUTOMATION INITIATIVE
+Summary: The PMO biweekly report was a high-friction manual process that required pulling raw data from multiple internal systems and performing extensive reorganization. I engineered a suite of three integrated VBA macros that automated the ingestion, parsing, and placement of complex datasets from Tango, AirTable, and Shield. This transformation reduced the report production time from two hours to just 15 minutes, eliminating delivery delays and enabling deeper data analysis without increasing the administrative workload.
+Situation: The traditional workflow was passed down through various owners, accumulating technical debt and manual "workarounds" that made the process tedious and prone to human error. A business partner expressed significant frustration after a report was delivered late due to these bottlenecks. The process required the preparer to manually cross-reference data across three disparate platforms, spending the majority of the time on data manipulation rather than strategic analysis.
+Task: My goal was to implement a "one-click" automation solution that could handle the ingestion of complex datasets while maintaining template compliance. I needed to ensure the solution was resilient to changes in raw input documents and capable of performing the final cleanup steps that previously required manual intervention.
+Action:
+* Macro Engineering: Developed and integrated three specialized VBA macros designed to parse and organize complex data sets from Tango, AirTable, and Shield simultaneously.
+* Automated Data Ingestion: Created a master ingestion macro that pulls parsed data into its designated report areas, eliminating the need for laborious manual "copy-and-paste" workflows.
+* Complex Data Parsing: Implemented logic within the code to identify and correct formatting discrepancies in the raw data, ensuring the final output was error-free and ready for immediate distribution.
+* Analytical Enhancement: Leveraged the newfound time efficiency to build in additional "deep-dive" data views, providing stakeholders with higher-level insights that were previously too time-consuming to produce.
+Result: The automation suite successfully reduced total report execution time by nearly 90%, from two hours down to approximately 15 minutes. This improvement completely eliminated delivery delays, satisfying stakeholder requirements and restoring client trust. By automating the admin-heavy tasks, I enabled the team to focus on data-driven storytelling and forecasting, significantly increasing the strategic value of the biweekly report.
+
+
+
+
+
+
+
+
+
+WEEKLY BUSINESS UNIT MEETING NOTES AUTOMATION
+Summary: To address the logistical challenge of facilitating high-velocity meetings while maintaining rigorous documentation standards, I developed a low-code automation ecosystem using Atlas AI and VBA. This system effectively eliminated the need for dedicated PMO meeting coordinator support by automating the transcription, speaker identification, and action-item extraction processes. By shifting this task to an automated background workflow, I recovered six hours of direct execution time per week while significantly raising the quality and accuracy of the output.
+Situation: As I inherited responsibility for six weekly business unit meetings, the manual burden of capturing detailed notes while facilitating discussions became a major operational bottleneck. Traditionally, these meetings required the presence of a PMO coordinator solely for note-taking—a redundant use of specialized resources. Even with support, the manual approach often led to delayed action items and transcription errors that failed to meet Amazon’s high-quality documentation standards during critical peak periods.
+Task: My objective was to engineer a "hands-off" solution that could ingest raw audio data and output professional, formatted notes without human intervention. I aimed to remove myself and the PMO office from the manual obligation of note-taking, ensuring that I could focus entirely on meeting facilitation without sacrificing the accuracy of the final deliverables.
+Action:
+* Prompt Engineering & AI Integration: Developed a sophisticated logic layer within Atlas AI to process transcripts. The system identifies speakers via direct mentions and conversational threading while distinguishing between casual discussion and explicit business commitments.
+* Low-Code Formatting Suite: Engineered a VBA macro that acts as the final integration step, handling complex styling, name bolding, and spelling corrections with a single-button execution.
+* Autonomous Workflow Design: Designed the system to run as a background process, allowing me to facilitate the meeting while the AI handled the administrative documentation in real-time.
+* Resource Optimization: Strategically removed the requirement for PMO coordinator presence, reallocating those human resources to higher-value project management tasks.
+Result: The automation delivered a total recovery of six hours per week in meeting execution time. By removing the need for a dedicated note-taker, the solution allowed the PMO office to scale its support across other initiatives without increasing headcount. Furthermore, the AI-driven output surpassed previous manual quality standards by providing precise, error-free documentation delivered almost immediately after each call. This enabled stakeholders to act on decisions faster and ensured 100% accountability across all six weekly workstreams.
+
+
+
+
+AUTOMATED APPROVALS TABLE & DATA INGESTION (PERSONA-BASED AGENTIC SOLUTION)
+Summary: To resolve a high-friction administrative bottleneck within Amazon’s real estate approval workflow, I engineered an end-to-end automation suite combining a custom AI Persona with a JavaScript-based browser integration. This solution automates the population of a 55-cell "Source of Truth" table by extracting complex lease data from PDFs and injecting it directly into a non-responsive UI via a custom modal. The initiative reduced the time per entry from 25 minutes to seconds, achieved 100% data fidelity, and provided a scalable framework for brokers to execute high-volume approvals during peak operational cycles.
+Situation: Every parking transaction—including renewals, holdovers, and new leases—requires the manual population of a 55-cell table within Amazon’s internal approval tool. Brokers were spending upwards of 25 minutes per document, manually cross-referencing PDFs and transcribing data into a rudimentary, non-user-friendly interface. This process was highly prone to "left-to-right" eye-tracking errors, which was critical because this table serves as the downstream "Source of Truth" for all legal lease documents. During peak periods like Prime and Peak, the administrative burden created a significant throughput bottleneck for an already overextended brokerage team.
+Task: With limited access to a dedicated tech team, I took the initiative to build a robust, autonomous solution. My goal was to eliminate manual transcription entirely, minimize human error, and create a "professional-grade" tool that brokers could use with minimal training. I needed to ensure the system was resilient against AI hallucinations and could handle complex data strings, such as legal descriptions containing commas and special characters.
+Action:
+* Agentic Persona Engineering: Developed a specialized AI Persona utilizing Socratic logic and recursive "checks and balances." I programmed the agent to perform self-reviews and error-protection protocols to prevent hallucinations, ensuring the extracted lease data was 100% accurate before export.
+* Robust Data Architecture: Engineered a custom CSV export format using double-colon (::) delimiters. This allowed the system to ingest and export massive strings of data, including complex prose and currency values, without the data breaking due to standard comma usage in legal text.
+* JavaScript Integration: Developed a browser-based JavaScript "bookmarklet" that maps the approval tool's web elements. I designed an Amazon-themed modal that pops up within the browser, allowing brokers to simply paste the AI’s CSV output to trigger an automated "match and fill" sequence.
+* Error Reporting & Quality Assurance: Built a reporting mechanism within the modal that provides an immediate success rate (e.g., "49/50 cells filled"). If a cell fails to populate due to a template change, the system identifies the specific error, allowing for targeted manual entry or rapid developer iteration.
+Result: The solution transformed a tedious 25-minute task into a near-instantaneous automated process, saving hours of broker time per week and drastically increasing throughput during high-pressure cycles. By removing human transcription from the equation, we achieved a zero-error rate for the "Source of Truth" data, eliminating the need for downstream corrections. The tool was widely adopted by the brokerage team, who now rely on the "one-click" bookmark solution to maintain high quality-standards while meeting aggressive procurement deadlines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHASE ONE: INTAKE STANDARDIZATION
+The Problem
+Our intake process for parking referrals and site opportunities was fundamentally broken. Submissions arrived through every channel imaginable - emails, texts, PDFs, Excel files - with no standard format or required information. Brokers and coordinators had to manually decipher which property belonged to which request, often dealing with duplicate submissions across multiple channels. They'd spend time comparing documents side by side just to understand what they were looking at.
+Once they figured that out, they had to manually log everything into the database by copying and pasting between documents or transcribing while looking at two screens. This was extremely error-prone when dealing with addresses, coordinates, property details, and contact information. The administrative burden fell on brokers, PCs, and interns, pulling everyone away from higher-value work.
+Here's the critical part. Based on interviews with brokers, this logging activity simply didn't get done most of the time. They told us that 40 to 60 percent of submissions never made it into the database. For every ten opportunities that partners researched, packaged, and submitted to us, we were losing four to six into a void. They disappeared unless Amazon pursued them for some other reason. We were operating with a 40 to 60 percent failure rate on basic data capture. That's not an inefficiency - that's a fundamentally broken system.
+Beyond the loss rate, we had zero visibility. Where submissions came from, how many we received, what the quality looked like, who was sending them - all of this lived in a black box. There was no way to track submission patterns, understand our pipeline, or identify which partners consistently delivered quality opportunities. It was historically a gray area that nobody could quantify or measure.
+The Solution
+We created a standardized submission form connected directly to KBC's database and visual mapping software. The form includes all necessary information fields for proper opportunity evaluation. When someone fills it out and submits, that information flows automatically into KBC's systems with no manual intervention required. No broker has to touch it. No PC has to log it. No intern has to copy and paste anything.
+Results and Impact
+In the first six weeks, we processed nearly 500 submissions through this system. That's 500 opportunities that didn't need filtering, duplicate review, deciphering, or manual archiving. All 500 automatically logged into the database with complete information, properly formatted, and immediately visible in broker evaluation systems.
+Conservatively estimating 10-15 minutes per submission under the old manual process (likely low when factoring in duplicates and unclear information), we saved 80 to 125 hours of administrative work in six weeks. That's time brokers, PCs, and interns now spend on evaluation, negotiation, and relationship management instead of data entry.
+But time savings aren't even the most important benefit. We eliminated the 40 to 60 percent loss rate. Every submission now gets captured. Every single one. We're not losing opportunities anymore, not making partners feel their work was wasted, and not leaving potential solutions on the table because someone lacked time to manually log them.
+The error rate dropped to essentially zero. No copying and pasting, no manual transcription, no typos or transposed numbers. Data goes from partner directly into our system in structured format. When brokers look at submissions, they can trust the information is exactly what the partner entered.
+Strategic Value
+This isn't just solving today's problems. It's building the foundation for future capabilities. We're working toward integrating with site selection tools, and when that happens, we need complete, consistent data. The form captures all information site selection tools will need to function effectively.
+When we transition to those tools, we won't be playing catch-up trying to backfill missing data or reaching back to partners for information about properties submitted months ago. We'll have rich, complete historical data ready to analyze from day one. Site selection tools will work with real information immediately instead of garbage-in-garbage-out scenarios.
+The system also establishes groundwork for tracking and metrics. Before, submission volume, quality, location, and source were invisible. Now we can track when submissions arrive, who submitted them, and we have the foundation to score submissions based on how closely they match requirements. We couldn't track what we couldn't capture consistently. Now we can capture everything consistently, opening possibilities for understanding partner performance, identifying geographic patterns, and making data-driven procurement decisions.
+________________
+
+
+PHASE TWO: PARTNER ENGAGEMENT & FUTURE DEVELOPMENT
+The Problem
+Fixing intake solved internal operations, but we still had major issues with how we engaged third-party partners. These valuable relationships built over years were being damaged through inconsistent communication and lack of visibility.
+Partners had been voicing concerns for a while, asking specifically for improvements around communication and feedback. They'd tell us things like "it feels like we submit these properties and they just die on the vine." They'd describe situations where brokers or Amazon would say we need something ASAP, they'd bend over backwards to submit properties quickly, then it would go silent for weeks with no feedback or response.
+I've seen this firsthand as an employee at Amazon. Nobody's denying it was happening. During peak times, it's very difficult for partners to get in touch with brokers or transaction managers working deals. Our people were over capacity, dealing with urgent requirements, and partner communication fell through the cracks. From the partner perspective, they were putting in work to support us and getting radio silence.
+Historically, understanding where we'd engaged with third-party vendors was a gray area. Kind of a black box. It was hit or miss. Sometimes we'd work with 3Ps, other times it seemed like we ignored or avoided them. This inconsistency challenged relationships and standards previously established with our partners.
+This wasn't just a relationship problem, though that alone would be serious. It directly impacted procurement effectiveness. When partners don't know what we need, they can't proactively find opportunities. When they submit things and never hear back, they question whether the effort is worthwhile. We were undermining our own procurement capability.
+Meanwhile, we had real operational constraints. Brokers handled more requirements than reasonably manageable. Staffing shortages across the team. Employee churn with new people coming up to speed during critical periods when we needed experienced people at full capacity. We needed to expand reach and network without blowing through headcount budget or overwhelming our already over-capacity team.
+The Solution
+We established a monthly RFQ cadence to standardize partner outreach. Every month we compile a list of requirements - some future needs, some overdue needs desperately needing attention. These lists typically contain 60 to 120 requests, substantial volume put in front of our partner network.
+We send these to vetted and approved third-party partners. We work with about 6 to 8 of these partners. Many are companies we've worked with successfully for years. Some are newer relationships. All have been vetted for site quality ensuring offerings align with Amazon's needs, and we only included partners we've historically worked well with. This vetting improves broker and transaction manager experience - they know submissions from these partners more likely meet standards.
+Results and Impact
+Over the past five to six months, we've consistently run this monthly RFQ process. The response has been overwhelmingly positive. Partners expressed appreciation for this more efficient way to understand our needs and contribute to requirements. They thanked us for this new effort and helped us develop it as we built it out.
+We built this collaboratively. We listened to their feedback about what wasn't working and designed this process to support and strengthen partnerships. This isn't just about extracting value from partners. It's about building sustainable, productive partnerships where both sides benefit. We're giving them clear visibility into needs, consistent communication, and structured engagement. In return, we're getting better submissions, stronger relationships, and broader coverage across the country.
+This massively increases our reach and visibility nationally without requiring additional headcount. We're leveraging existing relationships and networks, making them more productive through better structure and communication. Combined with the intake system ensuring we capture everything partners submit, the two pieces work as a complete system. We proactively tell partners what we need, and when they respond, we capture it reliably and make it immediately available to evaluators.
+With brokers well over capacity and unable to address their full requirements list, and with the time it takes to complete market surveys, reaching out to external third parties through systematic RFQ gives us our best shot at procuring off-site parking for 2025 Peak. Delays in procurement come with heavy business impacts. This initiative positions us to actually meet procurement obligations when the business needs us most. Several of our 3Ps have communicated to the team that this has been an incredibly welcomed change and some saying “I’ve worked with Amazon for several years and it has never been like this, we are so excited where this is going and I can’t thank you enough”
+What's Next: Completing the Vision
+We've built strong infrastructure, but we're not done. Two major opportunities sit right in front of us.
+Tracking and Metrics: We need comprehensive tracking to understand what happens after submissions arrive. How many submissions per request? How many elevated to formal site selection? What's the acceptance or denial rate? This tells us where we're succeeding and struggling. If we get fifty submissions but none reach site selection, either request parameters need refinement or we need better partner guidance. With a few more tools in the pipeline, we're very close to tracking all this. The infrastructure exists, data flows consistently - we just need to build tracking mechanisms and reporting dashboards. Because this data lives in KBC's systems and is handled by KBC, we'll work closely with them to build this out properly.
+Feedback Systems: The submission platform has built-in features allowing robust feedback implementation. A system that could proactively post and remove business requests without manual RFQ delivery every month. This transforms RFQs from monthly snapshots into living, continuously updated resources partners engage with anytime. If urgent requirements arise mid-cycle, we'd just post them - partners see them immediately.
+More importantly, we could provide valuable feedback educating partners on nuanced parking requests. For example, auto parking needs differ dramatically from standard trailer and van parking. We've already seen bad quality submissions purely because partners weren't educated on auto needs. If we provide feedback explaining why submissions don't meet auto requirements and what those requirements actually look like, we're educating that partner for every future auto request. Multiply that across our partner network and all parking types we handle - you're looking at substantial submission quality improvement over time.
+Creating this feedback system with features already in our survey solution is not a heavy lift. It could easily benefit submission quality and vastly improve relationships between brokers and 3Ps, especially when things get really busy and stressed. Peak periods are exactly when communication breaks down because everyone's slammed. A systematic feedback mechanism built into the platform means communication doesn't require manual emails or calls when there's no time. It becomes workflow. Brokers evaluate submissions, mark accepted or declined, add brief feedback - information automatically flows back to partners.
+Conclusion
+This two-phase initiative fundamentally changed how we operate. We've taken a process losing 40 to 60 percent of submissions and made it capture 100 percent automatically. We've eliminated hours of manual, error-prone administrative work weekly. We've transformed relationships damaged by inconsistent communication into partnerships where people feel valued and informed. We've expanded effective procurement reach nationally without adding headcount costs or overwhelming our stretched team.
+Most importantly, we've positioned ourselves to meet procurement obligations for 2025 Peak - which is the whole point of everything we do. The 500 submissions captured automatically, positive partner feedback on the RFQ process, time savings for brokers - these are real results proving we're on the right path. Now we need to complete the build-out and realize the full potential of what we've created.
+
+
+
+
+
+
+
+
+
+ENDING QUESTIONS
+FROM WHAT YOU HEARD TODAY IF I WERE ON YOUR TEAM HOW DO YOU FEEL YOU COULD  USE MY SKILLS AND EXPERIENCE AND WHERE DO YOU FEEL THERE MAY BE SOME NEED FOR GROWTH TO CONFIDENTLY FILL THIS ROLE. 
+Since no one likes the question “What did I mess up” I want to ask you what was your favorite part of this interview and were there any areas that you would have loved to hear more about? 
+IF YOU COULD HIRE ANYBODY WHAT ARE THE THREE QUALITIES YOU BELIEVE ARE NECESSARY FOR SUCCESS IN THIS ROLE?
+WHAT DOES SUCCESS LOOK LIKE IN 30, 60, & 90 DAYS?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUTREACH EXAMPLES
+
+Hello Rebecca,
+
+
+LinkedIn suggested your profile after I interacted with a few Amazon recruiter posts, Seeing that you are in Ops and Strategy I wanted to shoot over an invite. Big thanks for accepting!
+
+
+I'm currently a contractor over on the Global Real Estate team doing process improvements and really enjoying the role and team's culture. I'm hoping to transition to full-time eventually, so I'm trying to expand my network inside the company.
+
+
+Not really asking for anything right now, just seeing what is out there and connecting with interesting folks along the way. If you ever need someone with a background in PMO, process architecture, Ops, and data analysis (plus using JavaScript and VBA code-assist to automate admin tasks), I'd love to stay on your radar.
+
+
+Hope you have a great weekend!
+-
+Hello Richi,
+
+
+LinkedIn suggested your profile after I interacted with a few Amazon recruiting posts, so I wanted to shoot over an invite. Big thanks for accepting!
+
+
+I'm currently a contractor over on the Global Real Estate team doing process improvements and really enjoying the role and team's culture. I'm hoping to transition to full-time eventually, so I'm trying to expand my network inside the company.
+
+
+Not really asking for anything right now, just seeing what is out there and connecting with interesting folks. If you ever happen to need someone with a background in PMO, process architecture, and data analysis (plus using JavaScript and VBA code-assist to automate admin tasks), I'd love to stay on your radar.
+
+
+Hope you have a great weekend!
+-
+Hello Cristina,
+
+
+LinkedIn suggested your profile after I interacted with a few Amazon recruiting posts, so I wanted to shoot over an invite. Big thanks for accepting!
+
+
+I'm currently a contractor on the Global Real Estate team doing process improvements and really enjoying the role and team's culture. I'm hoping to transition to full-time eventually, so I'm trying to expand my network inside the company.
+
+
+Not really asking for anything right now, just seeing what is out there and connecting with interesting folks. If you ever happen to need someone with a background in PMO, process architecture, and data analysis (plus using JavaScript and VBA code-assist to automate admin tasks), I'd love to stay on your radar.
+
+
+Hope you have a great weekend!
+-
+Hey Dan,
+
+
+Saw your job post, liked it and decided to apply.
+
+
+I've got some info on my linkedin if you have time to check it out. Otherwise my resume is likely getting parsed in your ATS system and we'll see how things go that way.
+
+
+Anyway if you see some alignment and are still looking feel free to reach out.
+
+
+Kind regards,
+
+
+I am currently a contractor over on the Global Real Estate team doing process improvements, and I am really enjoying the culture and the scope of the work we do here. I saw your posting for the Sr Program Manager position (Job ID: 3177400) and wanted to reach out to express my interest in transitioning to a full-time role.
+In my current capacity, my work focuses on PMO and process improvement across the full real estate lifecycle. I handle both internal and external focused process improvements conducting interviews focused on pinpointing pain points and bottlenecks around our org. Recently, I've been engineering Agentic AI solutions and utilizing JavaScript to automate administrative bottlenecks, (Think extraction and autofill) recovering thousands of hours of capacity for our transaction managers while improving visibility for our external partners strengthening those relationships.
+Because I am currently a contractor, could you clarify the best application path for this role? I know as a contractor I don't have access to the internal "Request Informational" workflow, but I am not sure how far those restrictions extend. Do contractors qualify to apply for these internal roles, or is there a specific pipeline for active contractors looking to convert to full-time?
+Thank you in advance for your time and guidance. I have attached my resume for your review and would love to stay on your radar for this or future opportunities that you may be working to fill.
+
+
+-
+I am currently a contractor over on the Global Real Estate team doing process improvements, and I am really enjoying the culture and the scope of the work we do here. I saw your posting for the Program Manager III – MBA position (Job ID: AMZ24900.1) and wanted to reach out to express my interest.
+In my current capacity, my work focuses on PMO and organizational enablement. I lead user listening initiatives and conduct interviews to identify systemic bottlenecks and improve workflow effectiveness based on direct feedback. Recently, I've been utilizing Agentic AI to automate the synthesis of these feedback loops and track team responsibilities, recovering thousands of hours of capacity for our org while providing a transparent framework for continuous process improvement.
+I have attached my resume for your review and would love to stay on your radar. I am very interested in the work your team is doing and would appreciate the opportunity to connect if you see a fit.
+Hi Becca,
+I saw your listing for the Program Manager in AI Operations role on the internal job board and wanted to reach out and introduce myself.
+I’m currently contracting over on the Global Real Estate Team  owing tons of process improvements, I’m hoping to transition into a full-time role eventually. Would be very interested in learning more about the team and the role if you feel there is alignment. 
+In my current role, I've been heavily focused on AI workflow architecture, building out predictive analytics, creating AI-enhanced SOPs, and using Atlas AI to help automate some of our larger operational bottlenecks. These updates have been embraced by the team and some others have some eyes on them by various tech teams looking to scale our team’s fixes to support a much larger section of the company. I love this work and would love to do it full time if given the opportunity. 
+I know you are likely incredibly busy, but if you have 10 or 15 minutes in the next week or two, I'd love to grab a quick virtual coffee to learn more about your vision for the team and see if my background might be a good fit for what you're looking for.
+Either way, hope you're having a great week!
+Best,
+Jeremy Spaunhurst
