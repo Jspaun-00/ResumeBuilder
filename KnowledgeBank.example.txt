@@ -1,0 +1,37 @@
+﻿CAREER STORIES & INTERVIEW EXAMPLES
+
+---
+EXAMPLE STORY 1: SCALING OPERATIONS & CROSS-FUNCTIONAL EXECUTION
+
+Summary:
+Spearheaded an enterprise operational realignment across engineering, marketing, and client services teams, improving project turnaround time and stakeholder trust.
+
+Situation:
+Rapid client acquisition created bottlenecks in project intake, capacity forecasting, and multi-team handoffs, resulting in delayed delivery timelines and client escalation risk.
+
+Task:
+Design and implement a unified program delivery framework with automated reporting, real-time resource visibility, and clear governance boundaries.
+
+Action:
+Partnered with executive leadership and department heads to establish clear SLAs and workback schedules. Implemented automated executive tracking dashboards across project tracking platforms and standard operating procedures for continuous improvement.
+
+Result:
+Reduced project turnaround time by 35%, eliminated recurring operational bottlenecks, and increased client satisfaction ratings.
+
+---
+EXAMPLE STORY 2: DATA-DRIVEN PROGRAM MANAGEMENT
+
+Summary:
+Optimized data tracking workflows for machine learning model training and content labeling operations across distributed onshore and offshore teams.
+
+Situation:
+High volume of raw media and unstructured inputs required systematic annotation, QA verification, and consistent throughput without quality regression.
+
+Task:
+Build a scalable intake and tracking workflow with robust quality control checkpoints.
+
+Action:
+Engineered an end-to-end status tracking pipeline, implemented dual-review quality assurance criteria, and led weekly calibration sessions with cross-matrix partners.
+
+Result:
+Processed over 1,000 hours of content on schedule with 99.2% labeling accuracy, enabling timely delivery of production-ready datasets for AI model fine-tuning.

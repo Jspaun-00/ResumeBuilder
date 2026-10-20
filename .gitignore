@@ -1,0 +1,43 @@
+# Environments & Secrets
+.env
+.env.*
+*api_key*.txt
+*apikey*.txt
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Build & Distribution Artifacts
+build/
+dist/
+*.spec.bak
+*.app/
+
+# Editor & OS Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+
+# Personal Candidate Documents & Data
+Personafile.txt
+KnowledgeBank.txt
+Resume.docx
+*.docx
+*.pdf
+Tailored_Resume.pdf
+Full_Resume_Test.pdf
+Instant_Test.pdf
