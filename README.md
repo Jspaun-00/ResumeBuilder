@@ -1,6 +1,59 @@
 # 📄 Gemini Resume Slicer & PDF Generator
 
-An AI-powered desktop automation tool using **Google Gemini 2.5 Flash** to analyze job descriptions and synthesize tailored, high-impact resumes directly into beautifully styled PDF documents.
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-blue?style=for-the-badge)](https://github.com/TomSchimansky/CustomTkinter)
+[![Gemini](https://img.shields.io/badge/AI-Google%20Gemini%202.5%20Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![wkhtmltopdf](https://img.shields.io/badge/PDF-wkhtmltopdf%20%7C%20pdfkit-red?style=for-the-badge)](https://wkhtmltopdf.org)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)](#)
+
+An AI-powered desktop automation workstation utilizing **Google Gemini 2.5 Flash** to analyze complex enterprise job descriptions, match requirements against an extensive multi-role Knowledge Bank, and synthesize tailored, high-impact resumes directly into beautifully styled, print-ready PDF documents.
+
+---
+
+## 🏗️ Architecture & Pipeline
+
+```
+  [ Raw Job Description ]
+             │
+             ▼
+  +──────────────────────────────────────────────────────────────+
+  |              CustomTkinter Desktop Application               |
+  |                        (`app.py`)                            |
+  +──────────────────────────────┬───────────────────────────────+
+                                 │
+     +---------------------------+---------------------------+
+     |                                                       |
+     v                                                       v
+[ Personafile.txt ]                                 [ KnowledgeBank.txt ]
+(Executive Profile, Formatting Constraints)         (Project Stories, Scope, Metrics)
+     |                                                       |
+     +---------------------------+---------------------------+
+                                 │
+                                 v
+  +──────────────────────────────────────────────────────────────+
+  |            Google Gemini 2.5 Flash Inference API             |
+  |        - Tailors bullet points to specific JD keywords       |
+  |        - Slices highest-relevance achievements & metrics     |
+  +──────────────────────────────┬───────────────────────────────+
+                                 │
+                                 v
+  +──────────────────────────────────────────────────────────────+
+  |                   Regex Anchor Extraction                    |
+  |            Isolates structured Markdown payload              |
+  +──────────────────────────────┬───────────────────────────────+
+                                 │
+                                 v
+  +──────────────────────────────────────────────────────────────+
+  |                HTML5 & CSS Typographic Styling               |
+  |                  (`style.css` + `markdown2`)                 |
+  +──────────────────────────────┬───────────────────────────────+
+                                 │
+                                 v
+  +──────────────────────────────────────────────────────────────+
+  |               `pdfkit` / `wkhtmltopdf` Engine                |
+  |            Compiles pixel-perfect, ATS-ready PDF             |
+  +──────────────────────────────────────────────────────────────+
+```
 
 ---
 
@@ -8,8 +61,9 @@ An AI-powered desktop automation tool using **Google Gemini 2.5 Flash** to analy
 
 * **AI-Driven Personalization:** Dynamically pulls from a structured Knowledge Bank and candidate profile to tailor bullets, metrics, and executive summaries to target job postings.
 * **Intelligent Anchor Extraction:** Surgically isolates structured resume content from conversational AI outputs using regex markers.
-* **Modern PDF Generation:** Converts Markdown into high-fidelity, print-ready PDFs using HTML5, modern CSS typography, and `wkhtmltopdf`.
-* **Desktop GUI:** Simple and intuitive desktop interface built with `customtkinter`.
+* **Modern PDF Generation:** Converts Markdown into high-fidelity, print-ready PDFs using HTML5, modern CSS typography (`style.css`), and `wkhtmltopdf`.
+* **Cross-Platform Desktop GUI:** Clean, responsive desktop interface built with `customtkinter`.
+* **Zero Cloud Lock-in:** Runs entirely on local desktop compute with direct, secure API calls to Gemini.
 
 ---
 
@@ -57,29 +111,13 @@ Run the desktop application:
 python3 app.py
 ```
 
-1. Paste any Job Description into the text area.
-2. Click **GENERATE TAILORED PDF**.
-3. Your tailored resume will be compiled and exported directly to `~/Desktop/Tailored_Resume.pdf`.
-
----
-
-## 📁 Repository Structure
-
-```
-.
-├── app.py                     # Main CustomTkinter desktop application
-├── style.css                  # Modern resume print stylesheet
-├── Personafile.example.txt    # Persona and prompt structure template
-├── KnowledgeBank.example.txt  # STAR interview and achievement story template
-├── diagnostic.py              # API connection and model availability test
-├── fast_test.py               # Fast local PDF rendering benchmark
-├── test.py                    # Gemini SDK connection test
-├── .gitignore                 # Excludes credentials, build dirs, and personal files
-└── README.md                  # Documentation
-```
+1. Paste any Job Description into the input area.
+2. Click **Generate Tailored Resume**.
+3. The application will synthesize your tailored resume, compile it with CSS typography, and produce `Tailored_Resume.pdf`.
 
 ---
 
 ## 🔒 Security & Privacy
 
-This repository does not store personal contact information or active API credentials. Candidate stories, personal resumes (`*.docx`), generated PDFs (`*.pdf`), and local API key files are excluded via `.gitignore`.
+* **Strictly Anonymized:** Template files (`Personafile.example.txt`, `KnowledgeBank.example.txt`) provide clean structures for public repositories.
+* **Local Data Sovereignty:** Personal background data stays solely on the user's machine.
